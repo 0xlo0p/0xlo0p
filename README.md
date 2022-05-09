@@ -30,7 +30,7 @@
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/0xlo0p/ecdh4php">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xlop0&repo=ecdh4php&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xlo0p&repo=ecdh4php&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/0xlo0p/loop-socks5-client">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xlo0p&repo=loop-socks5-client&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>

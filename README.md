@@ -51,6 +51,6 @@
 &emsp;&emsp;
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
-![NetWork](https://img.shields.io/badge/-NetWork-pink?style=flat-square&logo=NetWork)
+![NetWork](https://img.shields.io/badge/-NetWork-pink?style=flat-square&logo=appveyor)
 
 ![Metrics](https://metrics.lecoq.io/0xlo0p?template=classic&config.timezone=Asia%2FShanghai)

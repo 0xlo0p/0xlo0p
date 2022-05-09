@@ -35,4 +35,15 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xlo0p&repo=loop-socks5-client&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
+💪 编程技能: 
+
+&emsp;&emsp;
+![C++](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Erlang](https://img.shields.io/badge/-Erlang-oringe?style=flat-square&logo=Erlang)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+
 ![Metrics](https://metrics.lecoq.io/0xlo0p?template=classic&config.timezone=Asia%2FShanghai)

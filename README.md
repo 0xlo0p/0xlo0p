@@ -46,4 +46,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
+🧠 计划学习:
+
+&emsp;&emsp;
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+![NetWork](https://img.shields.io/badge/-NetWork-pink?style=flat-square&logo=NetWork)
+
 ![Metrics](https://metrics.lecoq.io/0xlo0p?template=classic&config.timezone=Asia%2FShanghai)
